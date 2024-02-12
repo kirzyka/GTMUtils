@@ -1,4 +1,4 @@
-# Variables > Custom JS > Functions > getParent
+# Variables > Custom JS > Functions > getParentByCSSClass
 
     function() {
         return function(cssClass) {        
