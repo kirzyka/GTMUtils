@@ -1,9 +1,7 @@
-- Variables > Custom JS > Functions > getParent
-  `
-  function() {
-  var getParent = function() {
+# Variables > Custom JS > Functions > getParent
 
-  }
-
-  }
-  `
+    function() {
+      var getParent = function() {
+      
+      }
+    }
